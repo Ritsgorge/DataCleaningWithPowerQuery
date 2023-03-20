@@ -4,10 +4,10 @@
 As part of my way of practicing the data analysis skills I have acquired through numerous courses, I decided to take a part in the data cleaning challenge hosted by members of the data field on Twitter. The data used for this challenge was the FIFA 21 dataset which was obtained from kaggle after having webscrapped from sofifa.com.
 It contains information about football players and their performance until 2021.
 
-# OBJECTIVE
+# Objective
 Knowing how crucial the data cleaning process is, my goal was to ensure that there is no inconsistencies across the columns or general errors that could pose a risk of generating poorly informed insights in the future.
 
-# DATA CLEANING
+# Data Cleaning
 I imported and loaded the data into the power query editor for this cleaning challenge. The data contained 77 columns and 18,979 rows. Before starting out on cleaning, I scanned through the data dictionary provided to fully grasp the context of the data presented and to identify irrelevant columns. Next, I checked the data for duplicates using the ID column and found there was none. 
 After observing the data, I noticed the following errors that needed cleaning;
 -multiple variables stored in one column
