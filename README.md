@@ -35,7 +35,7 @@ The hits column had to be normalized as some values had 'K' attached t them. I u
 ![values  before](https://user-images.githubusercontent.com/116006674/226365299-5ac25cdc-0803-489f-90c8-83d90c03cf0f.png)                  ![values](https://user-images.githubusercontent.com/116006674/226365365-0a55c8ab-048a-4438-87bf-4bd896cd30a5.png)
 
 
-The wage, value and release columns had inconsistencies such as the prefix '£' and suffix 'M', and 'K'. I applied a conditional column to multiply each row bearing ‘M’, ‘K’ with ‘1000000’, ‘1000’ respectively. Any row not having either was multiplied by ‘1’ in the 'else' rule. Thereafter, I used ‘replace values’ to replace the ‘M’, ‘K’ and the ‘£’ with blanks before multiplying with the conditional column. On the format tab, I added the $ currency sign to the new values as is the standard.
+The wage, value and release columns had inconsistencies such as the prefix '£' and suffix 'M', and 'K'. I applied a conditional column to multiply each row bearing ‘M’, ‘K’ with ‘1000000’, ‘1000’ respectively. Any row not having either was multiplied by ‘1’ in the 'else' rule. Thereafter, I used ‘replace values’ to replace the ‘M’, ‘K’ and the ‘£’ with blanks before multiplying with the conditional column. I changed the data type of the column to '$' currency sign as is the standard.
 
 # Contract
 ![contract before](https://user-images.githubusercontent.com/116006674/226365573-fd84edd5-f4b7-4371-ba91-eed42462faa8.png)
