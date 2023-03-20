@@ -16,6 +16,7 @@ After observing the data, I noticed the following errors that needed cleaning;
 
 I started off with the more difficult tasks which included the height and weight columns specifically.
 
+https://github.com/Ritsgorge/DataCleaningWithPowerQuery/blob/main/wei%2Chei.%20before.png
 
 To clean the height column, which had values existing in cm and feet-inches, I split the column into inches from the feet and cm values. Then applied a conditional column which converted the feet to inches by multiplying by 12. Then using another conditional column (now in inches), I multiplied the column by 2.54 to get all values in cm. I changed the data type to whole numbers.
 
