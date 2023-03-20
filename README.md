@@ -1,7 +1,7 @@
 # DATA CLEANING: FIFA 2021
 
 # Background
-In a quest for practicing my data analysis skills I have acquired, I decided to take a part in the data cleaning challenge organized by members of the data field on Twitter. The data used for this challenge was the FIFA 21 dataset which was obtained from kaggle after having webscrapped from sofifa.com. It contains information about football players and their performance until 2021.
+In a quest to practice my acquired data analysis skills, I decided to take a part in the data cleaning challenge organized by members of the data field on Twitter. The data used for this challenge was the FIFA 21 dataset which was obtained from kaggle after having webscrapped from sofifa.com. It contains information about football players and their performance until 2021.
 
 # Objective
 Knowing how crucial the data cleaning process is, my goal was to ensure that there were no inconsistencies or general errors that could pose a risk of generating poorly informed insights after analysis.
