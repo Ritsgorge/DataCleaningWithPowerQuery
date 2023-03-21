@@ -1,5 +1,6 @@
 # DATA CLEANING: FIFA 2021
-![](images.jpeg)
+
+![image](https://user-images.githubusercontent.com/116006674/226679309-57a1715c-3007-483f-9c1d-e399e1fa21d7.png)
 
 # Background
 In a quest to practice my acquired data analysis skills, I decided to take a part in the data cleaning challenge organized by members of the data field on Twitter. The data used for this challenge was the FIFA 21 dataset which was obtained from kaggle after having webscrapped from sofifa.com. It contains information about football players and their performance until 2021.
