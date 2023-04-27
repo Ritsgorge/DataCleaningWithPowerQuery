@@ -1,5 +1,3 @@
-# DATA CLEANING: FIFA 2021
-
 ![image](https://user-images.githubusercontent.com/116006674/226679309-57a1715c-3007-483f-9c1d-e399e1fa21d7.png)
 
 # Background
