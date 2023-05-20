@@ -65,6 +65,8 @@ Before                                                                          
 For the ratings columns having special characters, I simply splitted the numbers from the characters and deleted the column containing the characters. Then I changed the data type to whole numbers.
 As for the blanks in the loan date end column, I replaced empty rows with ‘null’ using the 'replace values' function.
 
+![Screenshot (35)](https://github.com/Ritsgorge/FIFA-2021-Dataset-Analysis/assets/116006674/30ad74cf-3af0-4fba-91f6-8f23d68a9469)
+
 
 # CONCLUSION
 Personally, I didn’t remove any columns from the data during the cleaning process because this challenge was primarily for cleaning the dataset. I believe if I were to consequently analyse and visualize the data, the research questions would be a better guide to know what parts of the data I would need to drop.
